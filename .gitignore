@@ -1,0 +1,25 @@
+# Исполняемые файлы (бинарники)
+*.exe
+*.out
+*.app
+
+# Конкретные скомпилированные игры (для Linux/macOS)
+snake/snake
+calculator/calculator
+tic-tac-toe/tic-tac-toe
+
+# Объектные файлы
+*.o
+*.obj
+
+# Папки настроек редакторов (если используете)
+.vscode/
+.idea/
+
+# Системные файлы
+.DS_Store
+Thumbs.db
+
+# Специфичные файлы редактора Geany
+*.geany
+.geany/
